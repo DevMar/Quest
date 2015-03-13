@@ -6,4 +6,6 @@
     <string name="frage_text">Das Bertriebssystem Android ist sehr alt</string>
     <string name="true_but">Stimmt</string>
     <string name="false_but">Stimmt nicht</string>
+    <string name="corr_toast">Das ist Richtig</string>
+    <string name="incorr_toast">Das ist Falsch</string>
 </resources>
